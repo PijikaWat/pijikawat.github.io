@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pijika W."
+title                    : "Home"
 title_separator          : "-"
 name                     : &name "Pijika Watcharapichat"
 description              : &description "personal description"
@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Pijika Watcharapichat"
   avatar           : "profile-photo2.png"
-  bio              : " "
+  bio              : "Applied machine learning in healthcare; scalable machine learning"
   location         : "Cambridge, UK"
-  employer         :
+  employer         : 
   googlescholar    : "https://scholar.google.com/citations?user=xvtVCrgAAAAJ&hl=en"
   email            :
   researchgate     :  
