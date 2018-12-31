@@ -1,6 +1,6 @@
 ---
 title: "BrowserFlow: Preventing data leak to untrusted cloud"
-excerpt: "<img src='/images/browserflow.jpg' width=200>"
+excerpt: "<img src='/images/browserflow.jpg' width='500'>"
 collection: portfolio
 ---
 
