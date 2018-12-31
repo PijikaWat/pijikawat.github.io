@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,7 +15,8 @@ Before I joined Microsoft Research, I finished my PhD at Imperial College London
 
 
 
-Publications
+### Publications
+
 * Ako: Decentralised deep learning with partial gradient exchange 
   * Authors - Pijika Watcharapichat, Victoria Lopez Morales, Raul Castro Fernandez, Peter Pietzuch
   * ACM SoCC 2016
@@ -27,3 +28,7 @@ Publications
 * Meta-Dataflows: Efficient Exploratory Dataflow Jobs;
   * Authors - Raul Castro Fernandez, William Culhane, Pijika Watcharapichat, Matthias Weidlich, Victoria Lopez Morales, Peter Pietzuch
   * ACM SIGMOD 2018
+  
+* PhD dissertation: Improving the performance of dataflow systems for deep neural network training
+  * Author - Pijika Watcharapichat
+  * Imperial College London
