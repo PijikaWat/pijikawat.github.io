@@ -1,9 +1,10 @@
 
 ---
 title: "Nana and me"
-excerpt: "Smartphone-based machine learning for activity recognition"<br/><img src='/images/nana.jpg'>"
+excerpt: "Smartphone based machine learning for activity recognition"<br/><img src='/images/nana.jpg'>"
 collection: portfolio
 ---
+
 
 Nana and me is a prototype that uses smartphone as sensing device to monitor user’s physical activities. We develop an Android application which activates the on-board accelerometer to collect sensor data and apply machine learning algorithms to classify different patterns of user’s physical activities.
 
