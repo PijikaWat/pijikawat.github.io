@@ -12,8 +12,8 @@ redirect_from:
 Education
 ======
 * M.D. (Honours) in Chulalongkorn University, Bangkok, Thailand, 2007
-* Master of Science (Distiction) in Computing, Imperial College London, 2012
-* Master of Research (Distiction) in Advanced Computing, Imperial College London, 2013
+* Master of Science (Distinction) in Computing, Imperial College London, 2012
+* Master of Research (Distinction) in Advanced Computing, Imperial College London, 2013
 * Ph.D in Computer Science, Imperial College London, 2017
 
 Work experience
@@ -31,7 +31,7 @@ Skills
 ======
 * Programming
 * Applied machine learning
-* Distributed system
+* Distributed systems
 * Medical practice
 
 Publications
