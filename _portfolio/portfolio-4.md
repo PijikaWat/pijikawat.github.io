@@ -1,6 +1,6 @@
 ---
 title: "Nana and me: Smartphone based machine learning for activity recognition"
-excerpt: " <img src='/images/nana.jpg' width='200'>"
+excerpt: " <img src='/images/nana.jpg' width='500'>"
 collection: portfolio
 ---
 
