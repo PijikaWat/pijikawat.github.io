@@ -1,6 +1,6 @@
 ---
 title: "Ako: Decentralised deep learning"
-excerpt: "<img src='/images/ako.jpg'>"
+excerpt: "<img src='/images/ako.jpg' width="200">"
 collection: portfolio
 ---
 
