@@ -11,9 +11,9 @@ redirect_from:
 
 Education
 ======
-* M.D. (Honours) in Chulalongkorn University, Bangkok, Thailand, 2007
-* Master of Science (Distinction) in Computing, Imperial College London, 2012
-* Master of Research (Distinction) in Advanced Computing, Imperial College London, 2013
+* M.D. (Honours), Chulalongkorn University, Bangkok, Thailand, 2007
+* Master of Science in Computing (Distinction), Imperial College London, 2012
+* Master of Research in Advanced Computing (Distinction), Imperial College London, 2013
 * Ph.D in Computer Science, Imperial College London, 2017
 
 Work experience
