@@ -1,6 +1,6 @@
 ---
 title: "Similaire: Medical image search"
-excerpt: "Content based image retrieval<br/><img src='/images/medimagesearch.png'>"
+excerpt: "<img src='/images/medimagesearch.png' width="200">"
 collection: portfolio
 ---
 
