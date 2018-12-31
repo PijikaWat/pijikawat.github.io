@@ -1,6 +1,6 @@
 ---
 title: "Similaire: Medical image search"
-excerpt: "<img src='/images/medimagesearch.png' width="200">"
+excerpt: "<img src='/images/medimagesearch.png' width=200>"
 collection: portfolio
 ---
 
