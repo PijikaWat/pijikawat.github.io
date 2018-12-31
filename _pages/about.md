@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Pijika. I work as a researcher at Microsoft Research Cambridge, UK. My current research work is applied machine learning in healthcare and medicine. My past research experience span image classification, medical image search, mobile sensing for healthcare, distributed machine learning systems, and security in cloud applications.
+My name is Pijika. I work as a researcher at Microsoft Research Cambridge, UK. My current research is on applied machine learning in healthcare and medicine. My past research experience span image classification, medical image search, mobile sensing for healthcare, distributed machine learning systems, and security in cloud applications.
 
-Before I joined Microsoft Research, I completed my PhD at Imperial College London. My PhD supervisor was Professor Peter Pietzuch, who leads the Large-Scale Data & Systems (LSDS) group. I received a PhD scholarship from the Department of Computing. My masters dissertation was awarded as one of the two distinguished projects in 2012. Prior to my graduate school in Computing, I was trained as a medical doctor in Bangkok, Thailand. I practiced as a general practitioner and also worked for GlaxoSmithKline (Southeast Asia).
+Before I joined Microsoft Research, I completed my PhD at Imperial College London. My PhD supervisor was Professor Peter Pietzuch, who leads the Large-Scale Data & Systems (LSDS) group. I was awarded a full PhD scholarship from the Department of Computing. My masters dissertation was recognised as one of the two distinguished projects in 2012. Prior to my graduate school in Computing, I earned my M.D. degree in Bangkok, Thailand. I practiced as a general practitioner and worked for GlaxoSmithKline (Southeast Asia).
 
 
 
