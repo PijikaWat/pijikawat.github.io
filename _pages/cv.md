@@ -9,14 +9,14 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+## Education
 ======
 * M.D. (Honours), Chulalongkorn University, Bangkok, Thailand, 2007
 * Master of Science in Computing (Distinction), Imperial College London, 2012
 * Master of Research in Advanced Computing (Distinction), Imperial College London, 2013
 * Ph.D in Computer Science, Imperial College London, 2017
 
-Work experience
+## Work experience
 ======
 * General Practitioner
   * Sappasit Medical Center, Thailand
@@ -27,23 +27,13 @@ Work experience
 * Researcher (Healthcare and machine learning) 
   * Microsoft Research Cambridge, UK
   
-Skills
+## Skills
 ======
 * Programming
 * Applied machine learning
 * Distributed systems
 * Medical practice
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+
   
 
