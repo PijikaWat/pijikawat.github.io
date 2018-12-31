@@ -14,7 +14,7 @@ Before I joined Microsoft Research, I finished my PhD at Imperial College London
 
 
 
-======
+
 Publications
 * Ako: Decentralised deep learning with partial gradient exchange 
   * Authors - Pijika Watcharapichat, Victoria Lopez Morales, Raul Castro Fernandez, Peter Pietzuch
