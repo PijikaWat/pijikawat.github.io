@@ -16,14 +16,15 @@ Before I joined Microsoft Research, I finished my PhD at Imperial College London
 
 Publications
 ======
-1. Ako: Decentralised deep learning with partial gradient exchange 
-Authors - Pijika Watcharapichat, Victoria Lopez Morales, Raul Castro Fernandez, Peter Pietzuch
+1. Ako: Decentralised deep learning with partial gradient exchange; 
+
+Pijika Watcharapichat, Victoria Lopez Morales, Raul Castro Fernandez, Peter Pietzuch
 ACM SoCC 2016
 
-2. BrowserFlow: Imprecise Data Flow Tracking to Prevent Accidental Data Disclosure
-Authors - Ioannis Papagiannis, Pijika Watcharapichat, Divya Muthukumaran, Peter Pietzuch
+2. BrowserFlow: Imprecise Data Flow Tracking to Prevent Accidental Data Disclosure;
+Ioannis Papagiannis, Pijika Watcharapichat, Divya Muthukumaran, Peter Pietzuch
 ACM Middleware 2016
 
-3. Meta-Dataflows: Efficient Exploratory Dataflow Jobs
-Authors - Raul Castro Fernandez, William Culhane, Pijika Watcharapichat, Matthias Weidlich, Victoria Lopez Morales, Peter Pietzuch
+3. Meta-Dataflows: Efficient Exploratory Dataflow Jobs;
+Raul Castro Fernandez, William Culhane, Pijika Watcharapichat, Matthias Weidlich, Victoria Lopez Morales, Peter Pietzuch
 ACM SIGMOD 2018
