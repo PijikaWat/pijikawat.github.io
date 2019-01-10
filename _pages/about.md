@@ -8,9 +8,9 @@ redirect_from:
   - /about.html
 ---
 
-My name is Pijika. I work as a researcher at Microsoft Research Cambridge, UK. My current research is on applied machine learning in healthcare and medicine. My past research experience span image classification, medical image search, mobile sensing for healthcare, distributed machine learning systems, and security in cloud applications.
+My name is Pijika. I work as a researcher at Microsoft Research Cambridge, UK. My current research is on applied machine learning in healthcare and medicine. My past research experience spans image classification, medical image search, mobile sensing for physical health promotion, distributed machine learning systems, and security in cloud applications.
 
-Before I joined Microsoft Research, I completed my PhD at Imperial College London. My PhD supervisor was Professor Peter Pietzuch, who leads the Large-Scale Data & Systems (LSDS) group. I was awarded a full PhD scholarship from the Department of Computing. My masters dissertation was recognised as one of the two distinguished projects in 2012. Prior to my graduate school in Computing, I earned my M.D. degree in Bangkok, Thailand. I practiced as a general practitioner and worked for GlaxoSmithKline (Southeast Asia).
+Before I joined Microsoft Research, I completed my PhD at Imperial College London. My PhD supervisor was Professor Peter Pietzuch, who leads the Large-Scale Data & Systems (LSDS) group. I was awarded a full PhD scholarship from the Department of Computing. My masters dissertation was recognised as one of the two distinguished projects in 2012. Prior to my graduate school in Computing, I earned my M.D. Medicine degree from Chulalongkorn University, Bangkok, Thailand. I practiced as a general practitioner and worked for GlaxoSmithKline (Southeast Asia).
 
 
 
@@ -34,3 +34,5 @@ PhD dissertation: Improving the performance of dataflow systems for deep neural 
 :   Imperial College London
 
 
+## Acknowledgement
+My big gratitude to Peter and everyone in LSDS and the Department of Computing at Imperial College. 
