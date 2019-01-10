@@ -35,4 +35,4 @@ PhD dissertation: Improving the performance of dataflow systems for deep neural 
 
 
 ## Acknowledgement
-My big gratitude to Peter and everyone in LSDS and the Department of Computing at Imperial College. 
+My big gratitude to Peter and everyone in LSDS and the Department of Computing at Imperial College. It is a really good place to be.
